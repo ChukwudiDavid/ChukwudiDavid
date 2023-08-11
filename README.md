@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChukwudiDavid
+- 👋 Hi, I’m ChukwudiDavid
 - 👀 I’m interested in the BlockChain space
 - 🌱 I’m currently learning Solidity and React.js
 - 💞️ I’m looking to collaborate on BlockChain based projects
